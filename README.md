@@ -1,6 +1,7 @@
 # DoSpro
 
 **DoSpro** is a tool designed to perform a Denial of Service (DoS) attack by dynamically changing the IP address every 10 seconds to bypass Web Application Firewall (WAF) blocks or bans. This tool leverages **Free Windscribe VPN** to cycle through different IP addresses and **slowhttptest** to execute the DoS attack. 
+![image](https://github.com/user-attachments/assets/6be8d703-af09-49a8-9767-e06e9b880bc4)
 
 ## Disclaimer
 
