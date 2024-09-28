@@ -34,7 +34,7 @@ Windscribe Linux Installation Guide
     python3 DoSpro.py
 
 ![alt text](image.png)
-![alt text](dos.webm)
+[Play Video](dos.webm)
 
 ## Attaching to tmux sessions
 
