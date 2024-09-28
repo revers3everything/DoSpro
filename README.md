@@ -34,17 +34,14 @@ Windscribe Linux Installation Guide
     python3 DoSpro.py
 
 ![alt text](image.png)
-[Play Video](dos.webm)
 
 ## Attaching to tmux sessions
 
     To attach to the Windscribe session:
 
-    ```bash
-    tmux attach-session -t windscribe_session
+    $tmux attach-session -t windscribe_session
 
     To attach to the slowhttptest session:
 
-    ```bash
-    tmux attach-session -t slowhttptest_session
+    $tmux attach-session -t slowhttptest_session
 
